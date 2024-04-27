@@ -1,23 +1,19 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+I'm currently trying to learn more in-depth methods and techniques to become a functional Software Engineer.
 
-{Provide a description of your software}
+This specific software demonstrates the base knowledge of knowing how to display a message in a terminal with the message "Hello World!"
 
-{Describe your purpose for creating this software.}
+This software demonstrates my base knowledge of programming.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+Here is a link to a video demonstrating the code.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=vk0LFPxX8Fk)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I wrote the program in Python using Visual Studio Code.
 
-{Describe the programming language that you used}
+# Useful Website(s)
 
-# Useful Websites
-
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Github](https://github.com)
