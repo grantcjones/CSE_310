@@ -16,7 +16,7 @@ I used Kotlin for the project, and did not employ any non-standard libraries. I 
 
 {Make a list of websites that you found helpful in this project}
 
-- [Web Site Name]((https://www.w3schools.com))
+- [Web Site Name](https://www.w3schools.com/kotlin/kotlin_syntax.php)
 - [Web Site Name](http://chat.openai.com)
 
 # Future Work
