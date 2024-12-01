@@ -8,7 +8,7 @@ This software demonstrates my base knowledge of programming.
 
 Here is a link to a video demonstrating the code.
 
-[Software Demo Video](https://www.youtube.com/watch?v=vk0LFPxX8Fk)
+[Software Demo Video](https://youtu.be/pJt2jhUElTs)
 
 # Development Environment
 
